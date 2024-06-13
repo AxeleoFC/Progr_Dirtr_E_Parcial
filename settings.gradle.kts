@@ -1,0 +1,2 @@
+rootProject.name = "EVALUACION_SUMATIVA_PARCIAL"
+
